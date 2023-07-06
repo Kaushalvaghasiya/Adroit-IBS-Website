@@ -864,7 +864,7 @@ a.slide-btn:hover {
     color: #fff;
 }
 
-.service_icon .fa-rocket::before {
+.service_icon .fa-mixcloud::before {
     color: #497cbf;
 }
 
@@ -1163,7 +1163,7 @@ ul.styled-icons li a {
     color: #497cbf;
 }
 
-.icon-box .fa-trophy::before {
+.icon-box .fa-thumbs-up::before {
     color: #497cbf;
 }
 
@@ -1171,7 +1171,7 @@ ul.styled-icons li a {
     color: #497cbf;
 }
 
-.icon-box .fa-comments::before {
+.icon-box .fa-wechat::before {
     color: #497cbf;
 }
 
